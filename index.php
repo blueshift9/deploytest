@@ -1,3 +1,3 @@
 <?php
 
-echo 'test 6, this is a test';
+echo 'test 7, this is a test';
